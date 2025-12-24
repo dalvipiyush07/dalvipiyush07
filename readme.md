@@ -7,8 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dalvipiyush07&label=Profile%20Views&color=2c5364" />
   <img src="https://img.shields.io/badge/Focus-AWS%20%26%20DevOps-blue" />
-  <img src="https://img.shields.io/badge/IaC-Terraform-623ce4" />
-  <img src="https://img.shields.io/badge/Automation-Ansible-success" />
+
   <img src="https://img.shields.io/badge/Open%20To%20Work-Yes-brightgreen" />
 </p>
 
