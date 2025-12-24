@@ -64,7 +64,7 @@ This certification validates foundational understanding of AWS services, cloud a
 
 ## Core Competencies
 
-```bash
+
 AWS Cloud Infrastructure
 DevOps Engineering
 Ansible Automation
@@ -73,7 +73,7 @@ CI/CD Pipeline Implementation
 Linux System Administration
 Application Deployment on EC2
 Cloud Security Basics
-```
+
 
 ## Connect With Me
 
